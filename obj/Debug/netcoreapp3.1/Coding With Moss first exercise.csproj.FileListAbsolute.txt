@@ -1,0 +1,13 @@
+/home/chris/Projects/Coding With Moss first exercise/obj/Debug/netcoreapp3.1/Coding With Moss first exercise.csprojAssemblyReference.cache
+/home/chris/Projects/Coding With Moss first exercise/obj/Debug/netcoreapp3.1/Coding With Moss first exercise.csproj.CoreCompileInputs.cache
+/home/chris/Projects/Coding With Moss first exercise/obj/Debug/netcoreapp3.1/Coding With Moss first exercise.AssemblyInfoInputs.cache
+/home/chris/Projects/Coding With Moss first exercise/obj/Debug/netcoreapp3.1/Coding With Moss first exercise.AssemblyInfo.cs
+/home/chris/Projects/Coding With Moss first exercise/bin/Debug/netcoreapp3.1/Coding With Moss first exercise
+/home/chris/Projects/Coding With Moss first exercise/bin/Debug/netcoreapp3.1/Coding With Moss first exercise.deps.json
+/home/chris/Projects/Coding With Moss first exercise/bin/Debug/netcoreapp3.1/Coding With Moss first exercise.runtimeconfig.json
+/home/chris/Projects/Coding With Moss first exercise/bin/Debug/netcoreapp3.1/Coding With Moss first exercise.runtimeconfig.dev.json
+/home/chris/Projects/Coding With Moss first exercise/bin/Debug/netcoreapp3.1/Coding With Moss first exercise.dll
+/home/chris/Projects/Coding With Moss first exercise/bin/Debug/netcoreapp3.1/Coding With Moss first exercise.pdb
+/home/chris/Projects/Coding With Moss first exercise/obj/Debug/netcoreapp3.1/Coding With Moss first exercise.dll
+/home/chris/Projects/Coding With Moss first exercise/obj/Debug/netcoreapp3.1/Coding With Moss first exercise.pdb
+/home/chris/Projects/Coding With Moss first exercise/obj/Debug/netcoreapp3.1/Coding With Moss first exercise.genruntimeconfig.cache
